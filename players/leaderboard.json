@@ -1,11 +1,6 @@
 {
   "Coins": [
     {
-      "UserId": 1304197495,
-      "Value": 1142,
-      "Name": "DevBarp"
-    },
-    {
       "UserId": 3391947286,
       "Value": 277,
       "Name": "kaptohka229"
@@ -36,13 +31,7 @@
       "Name": "gfjrrsurge"
     }
   ],
-  "Donated": [
-    {
-      "UserId": 1304197495,
-      "Value": 175,
-      "Name": "DevBarp"
-    }
-  ],
+  "Donated": [],
   "Raised": [
     {
       "UserId": 1959622759,
@@ -61,11 +50,6 @@
     }
   ],
   "Playtime": [
-    {
-      "UserId": 1304197495,
-      "Value": 8078,
-      "Name": "DevBarp"
-    },
     {
       "UserId": 1527189079,
       "Value": 6497,
