@@ -1,6 +1,6 @@
 {
   "1304197495": {
-    "NoRagdoll": true,
-    "NoCDRagdoll": false
+    "NoRagdoll": false,
+    "NoCDRagdoll": true
   }
 }
