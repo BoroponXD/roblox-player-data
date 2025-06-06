@@ -27,7 +27,7 @@
     },
     {
       "UserId": 3980555544,
-      "Value": 8,
+      "Value": 9,
       "Name": "Maxim_Wot1"
     }
   ],
@@ -77,14 +77,14 @@
       "Name": "Bacek090"
     },
     {
+      "UserId": 3980555544,
+      "Value": 558,
+      "Name": "Maxim_Wot1"
+    },
+    {
       "UserId": 8142759373,
       "Value": 555,
       "Name": "apolonshhaa"
-    },
-    {
-      "UserId": 3980555544,
-      "Value": 531,
-      "Name": "Maxim_Wot1"
     }
   ]
 }
