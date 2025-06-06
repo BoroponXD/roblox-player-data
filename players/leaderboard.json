@@ -12,7 +12,7 @@
     },
     {
       "UserId": 1527189079,
-      "Value": 8,
+      "Value": 14,
       "Name": "Svaiper228"
     }
   ],
@@ -28,6 +28,11 @@
       "UserId": 1959622759,
       "Value": 100,
       "Name": "Bacek090"
+    },
+    {
+      "UserId": 1527189079,
+      "Value": 25,
+      "Name": "Svaiper228"
     }
   ],
   "Playtime": [
@@ -43,7 +48,7 @@
     },
     {
       "UserId": 1527189079,
-      "Value": 532,
+      "Value": 592,
       "Name": "Svaiper228"
     },
     {
