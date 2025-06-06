@@ -2,9 +2,8 @@
   "Coins": [
     {
       "UserId": 1304197495,
-      "Value": 23,
-      "Name": "DevBarp",
-      "Icon": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0B64E7A8BA2D5070EDCB9A7AB3D40B79-Png/150/150/AvatarHeadshot/Png/noFilter"
+      "Value": 25,
+      "Name": "DevBarp"
     }
   ],
   "Donated": [],
@@ -12,9 +11,8 @@
   "Playtime": [
     {
       "UserId": 1304197495,
-      "Value": 440,
-      "Name": "DevBarp",
-      "Icon": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0B64E7A8BA2D5070EDCB9A7AB3D40B79-Png/150/150/AvatarHeadshot/Png/noFilter"
+      "Value": 564,
+      "Name": "DevBarp"
     }
   ]
 }
