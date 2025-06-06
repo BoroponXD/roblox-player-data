@@ -7,12 +7,18 @@
     },
     {
       "UserId": 1959622759,
-      "Value": 1,
+      "Value": 21,
       "Name": "Bacek090"
     }
   ],
   "Donated": [],
-  "Raised": [],
+  "Raised": [
+    {
+      "UserId": 1959622759,
+      "Value": 100,
+      "Name": "Bacek090"
+    }
+  ],
   "Playtime": [
     {
       "UserId": 1304197495,
@@ -21,7 +27,7 @@
     },
     {
       "UserId": 1959622759,
-      "Value": 479,
+      "Value": 529,
       "Name": "Bacek090"
     }
   ]
