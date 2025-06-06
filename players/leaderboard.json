@@ -1,0 +1,20 @@
+{
+  "Coins": [
+    {
+      "UserId": 1304197495,
+      "Value": 17,
+      "Name": "DevBarp",
+      "Icon": "https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=1304197495&size=150x150&format=Png&isCircular=false"
+    }
+  ],
+  "Donated": [],
+  "Raised": [],
+  "Playtime": [
+    {
+      "UserId": 1304197495,
+      "Value": 138,
+      "Name": "DevBarp",
+      "Icon": "https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=1304197495&size=150x150&format=Png&isCircular=false"
+    }
+  ]
+}
