@@ -2,7 +2,7 @@
   "Coins": [
     {
       "UserId": 1304197495,
-      "Value": 1000,
+      "Value": 998,
       "Name": "DevBarp"
     },
     {
@@ -63,7 +63,7 @@
   "Playtime": [
     {
       "UserId": 1304197495,
-      "Value": 5944,
+      "Value": 5905,
       "Name": "DevBarp"
     },
     {
