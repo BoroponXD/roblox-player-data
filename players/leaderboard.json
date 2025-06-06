@@ -17,7 +17,7 @@
     },
     {
       "UserId": 3391947286,
-      "Value": 1,
+      "Value": 12,
       "Name": "kaptohka229"
     }
   ],
@@ -33,6 +33,11 @@
       "UserId": 1959622759,
       "Value": 100,
       "Name": "Bacek090"
+    },
+    {
+      "UserId": 3391947286,
+      "Value": 50,
+      "Name": "kaptohka229"
     },
     {
       "UserId": 1527189079,
@@ -58,7 +63,7 @@
     },
     {
       "UserId": 3391947286,
-      "Value": 84,
+      "Value": 144,
       "Name": "kaptohka229"
     }
   ]
