@@ -2,7 +2,7 @@
   "Coins": [
     {
       "UserId": 1304197495,
-      "Value": 276,
+      "Value": 426,
       "Name": "DevBarp"
     },
     {
@@ -11,7 +11,13 @@
       "Name": "Bacek090"
     }
   ],
-  "Donated": [],
+  "Donated": [
+    {
+      "UserId": 1304197495,
+      "Value": 100,
+      "Name": "DevBarp"
+    }
+  ],
   "Raised": [
     {
       "UserId": 1959622759,
@@ -22,7 +28,7 @@
   "Playtime": [
     {
       "UserId": 1304197495,
-      "Value": 1162,
+      "Value": 1217,
       "Name": "DevBarp"
     },
     {
