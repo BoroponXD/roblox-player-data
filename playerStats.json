@@ -6,7 +6,7 @@
     "Playtime": 204,
     "NoRagdoll": false,
     "NoCDRagdoll": false,
-    "MusicMuted": false,
+    "MusicMuted": true,
     "BoomboxMuted": false
   }
 }
