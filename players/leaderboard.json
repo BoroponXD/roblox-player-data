@@ -2,7 +2,7 @@
   "Coins": [
     {
       "UserId": 1304197495,
-      "Value": 1002,
+      "Value": 1004,
       "Name": "DevBarp"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "UserId": 2359978114,
-      "Value": 13,
+      "Value": 14,
       "Name": "gfjrrsurge"
     }
   ],
@@ -63,7 +63,7 @@
   "Playtime": [
     {
       "UserId": 1304197495,
-      "Value": 6008,
+      "Value": 6064,
       "Name": "DevBarp"
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "UserId": 2359978114,
-      "Value": 837,
+      "Value": 897,
       "Name": "gfjrrsurge"
     },
     {
